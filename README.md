@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🌐 sayaoff / web developer</h1>
+  <h1>🍉 sayaoff / web developer</h1>
 
   <p>
     Делаю сайты, верстаю интерфейсы и постепенно прокачиваюсь в веб-разработке.
