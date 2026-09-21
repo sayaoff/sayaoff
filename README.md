@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/sayaoff-dark-banner.svg" alt="sayaoff webdev banner" />
+</p>
+
 <div align="center">
 
   <h1>🍉 sayaoff / web developer</h1>
