@@ -12,8 +12,8 @@
   <br />
 
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma&perline=7"
-    alt="HTML, CSS, JavaScript, React, Git, VS Code, Figma"
+    src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,lua,git,vscode,figma&perline=10"
+    alt="HTML, CSS, JavaScript, React, Python, C++, Lua, Git, VS Code, Figma"
   />
 
   <br />
