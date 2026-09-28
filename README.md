@@ -4,15 +4,22 @@
 
 <div align="center">
 
-  <h1>🍉 sayaoff / software & web developer</h1>
+  <h1>🍉 sayaoff</h1>
 
   <p>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=900&color=C9D9EA&center=true&vCenter=true&width=620&lines=College+student+building+software+and+web;Working+on+Windows+desktop+apps;Learning+by+shipping+real+projects"
-      alt="College student building software and web"
-    />
+    <b>software & web developer</b>
   </p>
 
+  <p>
+    I build web interfaces, Windows desktop tools, and small apps that solve real problems.
+  </p>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Menlo&size=18&duration=2600&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=college+student+%2F+developer;web+interfaces+%2B+desktop+software;learning+by+shipping+real+projects"
+    alt="typing animation"
+  />
+
+  <br />
   <br />
 
   <img
@@ -20,23 +27,29 @@
     alt="C#, .NET, PowerShell, HTML, CSS, JavaScript, React, Python, C++, Lua, Git, VS Code, Figma"
   />
 
-  <br />
-  <br />
+</div>
 
-  <p>
-    <b>Building websites, desktop tools, and small apps that solve real problems.</b>
-  </p>
+---
 
-  <p>
-    Currently working on <a href="https://github.com/sayaoff/KIT"><b>KIT</b></a> — a Windows app for managing a CS2 gaming setup around game sessions.
-  </p>
+### currently building
 
-  <br />
+**[KIT](https://github.com/sayaoff/KIT)** — a Windows desktop app for managing a Counter-Strike 2 setup around game sessions.
 
+It is built with **C#**, **.NET**, **WPF**, local JSON storage, Windows process/startup integration, tests, release scripts, and a prepared installer flow.
+
+### what i work with
+
+- Desktop software: C#, .NET, WPF, Windows apps
+- Web: HTML, CSS, JavaScript, React
+- Tools and scripts: PowerShell, Git
+- Also learning and using: Python, C++, Lua
+
+<br />
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayaoff/sayaoff/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayaoff/sayaoff/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sayaoff/sayaoff/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/sayaoff/sayaoff/output/github-contribution-grid-snake.svg" />
   </picture>
-
-</div>
+</p>
