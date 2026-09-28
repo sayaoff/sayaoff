@@ -14,6 +14,13 @@
     I build web interfaces, Windows desktop tools, and small apps that solve real problems.
   </p>
 
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=sayaoff&label=PROFILE%20VIEWS&color=red&style=for-the-badge"
+      alt="profile views"
+    />
+  </p>
+
   <img
     src="https://readme-typing-svg.demolab.com?font=Menlo&size=18&duration=2600&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=college+student+%2F+developer;web+interfaces+%2B+desktop+software;learning+by+shipping+real+projects"
     alt="typing animation"
